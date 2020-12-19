@@ -2,4 +2,4 @@
 
 My first repository.
 
-Hello internet, lets build the future one bit at a time!
+Hello internet, let's build the future one bit at a time!
