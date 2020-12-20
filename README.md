@@ -8,7 +8,7 @@
 
 *One Element at a time*
 
-> #code #
+> This is a Blockquote.
 
 1. First item
 2. Second item
@@ -37,7 +37,7 @@ print('Hello, world!')
 term
 : definition
 
-~~The world is null.~~
+~~This is a Strikethrough.~~
 
 - [x] Master Markdown
 - [ ] Master Github
