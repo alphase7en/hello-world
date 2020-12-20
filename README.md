@@ -28,6 +28,8 @@
 | Paragraph | Text |
 
 ```
+# Python Sample
+
 # This program prints Hello, world!
 
 print('Hello, world!')
