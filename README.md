@@ -22,10 +22,6 @@
 
 ---
 
-[Github - AlphaSe7en](https://github.com/alphase7en)
-
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
@@ -47,3 +43,7 @@ term
 - [x] Master Markdown
 - [ ] Master Github
 - [ ] Master A.I.
+
+[Github - AlphaSe7en](https://github.com/alphase7en)
+
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
