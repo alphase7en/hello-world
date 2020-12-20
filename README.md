@@ -8,7 +8,7 @@
 
 *One Element at a time*
 
-> The supreme art of war is to subdue the enemy without fighting. ~ Sun Tzu
+> #code #
 
 1. First item
 2. Second item
@@ -25,18 +25,16 @@
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
-| Paragraph | Text | 
+| Paragraph | Text |
 
 ```
-{
-  "firstName": "Alpha",
-  "lastName": "Se7en",
-  "age": 76
-}
-``` 
+# This program prints Hello, world!
+
+print('Hello, world!')
+```
 
 term
-: definition 
+: definition
 
 ~~The world is null.~~
 
