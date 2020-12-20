@@ -2,7 +2,7 @@
 
 ## My first repository.
 
-### Hello internet, let's build the future one bit at a time!
+### Let's build the future one bit at a time!
 
 **Mastering Markdown**
 
