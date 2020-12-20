@@ -24,7 +24,7 @@
 
 [Github - AlphaSe7en](https://github.com/alphase7en)
 
-![GitHub Logo](https://github.com/images/logo.png)
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 | Syntax | Description |
 | ----------- | ----------- |
