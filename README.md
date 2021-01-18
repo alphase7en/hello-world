@@ -41,7 +41,7 @@ term
 
 - [x] Master Markdown
 - [ ] Master Github
-- [ ] Master A.I.
+- [ ] Master CyberSecurity
 
 [Github - AlphaSe7en](https://github.com/alphase7en)
 
